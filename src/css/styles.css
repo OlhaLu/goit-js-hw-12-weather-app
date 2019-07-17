@@ -15,7 +15,7 @@ body {
   align-items: center;
   text-align: center;
   font-size: 18px;
-  background-image: url('https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Trippy-Nature-Wallpaper.jpg');
+  background-image: url('https://i.imgur.com/tXtwrPd.jpg');
 }
 
 .search-form {
@@ -43,8 +43,9 @@ button {
 }
 
 .weather {
-  font-size: 20px;
-  color: #fff;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
 }
 
 .credit{
